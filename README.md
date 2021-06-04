@@ -1,2 +1,220 @@
-# arquitetura-tradicional
+# Arquitetura tradicional
+
 Método luso-brasileiro de arquitetura tradicional.
+
+- [ ] Introdução
+  - [ ] Comparar as comparações
+  - [ ] Fundamentos da representação arquitetônica
+  - [ ] Processo territorial
+  - [ ] Do fogo à organização social
+  - [ ] Caverna, tenda e cabana
+  - [ ] Princípios universais: gravidade; preferência pela compressão
+  - [ ] Princípios regionais: bioclimatismo
+
+- [ ] Fundações e taipas
+  - [ ] Construções na terra
+    - [ ] Escavadas ou cavernas naturais
+    - [ ] Adossadas
+    - [ ] Semienterradas
+  - [ ] Terraplenos
+    - [ ] Demarcando o lugar por meio do nível
+    - [ ] Plataformas simples
+    - [ ] Terraplenos elevados
+    - [ ] Túmulos
+  - [ ] Taipa de pilão
+    - [ ] Execução
+    - [ ] Adobes cônicos e quadrangulares
+  - [ ] Baldrames
+    - [ ] Dimensionamento ≥ 1/8 h, ≥ 2 w
+    - [ ] Execução
+  - [ ] Estacas e palafitas
+    - [ ] Dimensionamento l ≤ 12 d
+    - [ ] Execução
+
+- [ ] Construção arquitravada
+  - [ ] Cabana mitológica
+  - [ ] Restrições ao uso de estruturas à flexão
+  - [ ] Ocorrência e variedades de madeira
+  - [ ] Forquilha → esteios → colunas
+  - [ ] Ligação com as fundações
+    - [ ] Engastada
+    - [ ] Apoiada
+      - [ ] Diretamente
+      - [ ] Com base
+  - [ ] Ligação vertical–horizontal
+    - [ ] Capitéis
+      - [ ] Engastados (pseudo rígidos)
+        - [ ] Ordem chinesa
+        - [ ] Ordem xinguana
+      - [ ] Apoiados
+        - [ ] Lineares
+          - [ ] Ordem jônica
+          - [ ] Ordem indiana
+        - [ ] Bilineares
+          - [ ] Ordem persa
+        - [ ] Centralizados
+          - [ ] Ordem dórica
+    - [ ] Contraventamento
+      - [ ] Enxaimel
+  - [ ] Vigas
+    - [ ] Alinhamento
+    - [ ] Dimensionamento e geometria
+      - [ ] Momento de inércia no plano vertical I = ML<sup>2</sup>
+  - [ ] Superfícies
+    - [ ] Planas
+      - [ ] Assoalhos
+        - [ ] Vigas e barrotes
+        - [ ] Tábuas
+        - [ ] Artesões
+      - [ ] Junção com o vertical
+        - [ ] Sanca e rodapé
+        - [ ] Engastamento
+      - [ ] Revestimentos
+        - [ ] Contrapiso
+        - [ ] Terraço
+        - [ ] Estabilização sísmica
+    - [ ] Inclinadas
+      - [ ] Caibros e ripas
+      - [ ] Vigas e pontaletes
+      - [ ] Tipos de coberturas
+  - [ ] Configurações espaciais
+    - [ ] Pórtico único (Xingu)
+    - [ ] Pórticos paralelos (China)
+    - [ ] Peristilo (Mediterrâneo, *longhouse*)
+    - [ ] Gaiola (norte da Europa)
+  - [ ] Execução
+    - [ ] *In loco*
+    - [ ] Prefabricação modular *in loco*
+    - [ ] Maquinário e trabalho
+
+- [ ] Construção murária
+  - [ ] Construir à compressão pura
+  - [ ] Rochas e suas propriedades
+  - [ ] Aparelhos da alvenaria em pedra
+    - [ ] Pedra seca
+    - [ ] Pedra lavrada
+    - [ ] Aparelho poligonal ou ciclópico
+    - [ ] Aparelho isódomo e pseudoisódomo
+    - [ ] *Opus incertum, semi reticulatum, reticulatum*
+  - [ ] Componentes à base de fogo
+    - [ ] Cal
+      - [ ] Virgem
+      - [ ] Hidratada
+    - [ ] Pozolana
+    - [ ] Tijolo cerâmico
+      - [ ] *Opus latericium*
+    - [ ] Cerâmica vidrada
+  - [ ] Paredes mistas
+    - [ ] *Opus sectile*: "concreto" romano
+    - [ ] Combinação de paredes e terraplenos
+    - [ ] Execução
+      - [ ] Andaimes e seus apoios
+      - [ ] Maquinário e trabalho
+  - [ ] Transferência de cargas
+    - [ ] Linear
+      - [ ] Dintéis
+      - [ ] Falsos arcos
+      - [ ] Arcos verdadeiros
+        - [ ] Parabólico
+          - [ ] Origem na Índia ou Pérsia
+        - [ ] Pleno
+          - [ ] Uso desde a antiga Mesopotâmia
+        - [ ] Ogival
+        - [ ] Plano
+        - [ ] Formas compostas ou interrompidas
+          - [ ] Arco rebaixado e sobrelevado (ovais)
+          - [ ] Arco abatido
+          - [ ] Combinações: ferradura, lobulado, Tudor, etc.
+    - [ ] Volumétrica
+      - [ ] Abóbadas
+        - [ ] Por extrusão simples
+        - [ ] Simples com reforços transversais
+        - [ ] Aresta
+          - [ ] Nervurada
+      - [ ] Cúpulas
+        - [ ] De rotação
+        - [ ] Nervuradas
+        - [ ] Calotas
+        - [ ] Anel de compressão
+        - [ ] Transição geométrica
+          - [ ] Planta octogonal
+          - [ ] Planta quadrada
+            - [ ] Trompas
+            - [ ] Pendentes
+    - [ ] Execução
+      - [ ] Autoportante
+        - [ ] Abobadilha
+      - [ ] Cimbramento
+        - [ ] Padronização e racionalização
+  - [ ] Estabilização de paredes
+    - [ ] Geometria e vetores de carga
+    - [ ] Momento de inércia no plano horizontal
+    - [ ] Colunas e maciços
+    - [ ] Contrafortes
+      - [ ] Arcos botantes
+    - [ ] Tirantes (raro e não recomendado)
+  - [ ] Desempenho bioclimático
+    - [ ] Massa térmica passiva
+    - [ ] Proporção de cheios e vazios em fachada
+
+- [ ] Superestruturas, detalhes e revestimentos
+  - [ ] Amplitude do conceito vitruviano de *venustas*
+  - [ ] Estruturas complexas em madeira
+    - [ ] Tesouras e treliças de telhado
+    - [ ] Mísulas
+      - [ ] Madeira
+      - [ ] Alvenaria
+    - [ ] Dougong
+  - [ ] Teoria das molduras
+    - [ ] Descarga
+    - [ ] Apoio
+    - [ ] Junção
+    - [ ] Separação
+    - [ ] Coroamento e escoamento
+  - [ ] Divisórias
+    - [ ] Tabique e pau-a-pique
+    - [ ] Gelosia
+    - [ ] Vidro
+  - [ ] Revestimentos
+    - [ ] Tecidos e trançados (quase divisórias)
+    - [ ] Caiação, pinturas e afrescos
+    - [ ] Mosaicos e azulejos
+
+- [ ] Água
+  - [ ] Não existe impermeabilização
+  - [ ] Variações sazonais e regionais
+  - [ ] Funções
+    - [ ] Irrigação e consumo
+    - [ ] Regulação microclimática
+    - [ ] Ornamento
+  - [ ] Passivos
+    - [ ] Infiltração
+    - [ ] Suporte para agentes bióticos de degradação
+  - [ ] Adução
+    - [ ] Coleta pluvial
+      - [ ] Influência na forma arquitetônica
+    - [ ] Poço
+    - [ ] Canalização
+      - [ ] Em superfície
+      - [ ] Subterrânea
+  - [ ] Retenção
+    - [ ] Em superfície (tanque)
+    - [ ] Subterrânea (cisterna)
+  - [ ] Drenagem
+    - [ ] Beirais e calhas (proteção de fachadas)
+    - [ ] Sarjeta
+    - [ ] Cloaca
+    - [ ] Remoção de resíduos
+      - [ ] Por água corrente
+      - [ ] Por transporte manual
+  - [ ] Calefação
+    - [ ] Banhos aquecidos
+    - [ ] Aquecimento de ambientes
+
+- [ ] Composição
+  - [ ] Extensão e lugar
+  - [ ] Espaço e volume
+  - [ ] Boa forma e relações espaciais
+  - [ ] Proporções
+  - [ ] Divisões sucessivas
+
