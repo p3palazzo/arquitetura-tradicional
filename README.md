@@ -3,6 +3,7 @@
 Método luso-brasileiro de arquitetura tradicional.
 
 - [ ] Introdução
+  - [ ] O que é arquitetura tradicional
   - [ ] Comparar as comparações
   - [ ] Fundamentos da representação arquitetônica
   - [ ] Processo territorial
@@ -210,6 +211,7 @@ Método luso-brasileiro de arquitetura tradicional.
   - [ ] Calefação
     - [ ] Banhos aquecidos
     - [ ] Aquecimento de ambientes
+  - [ ] Jardins
 
 - [ ] Composição
   - [ ] Extensão e lugar
